@@ -1,6 +1,7 @@
 ## Hi there 👋
-<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<div style="display: flex; justify-content: center;">
+  <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</div
 <!--
 **GonzaSalda/GonzaSalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
