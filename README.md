@@ -7,8 +7,8 @@
   </div>
   <div align=center>
         <a href="https://www.linkedin.com/in/gonzalo-saldaño/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://gonzalosaldanio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=portfolio" alt="Portfolio" /></a>
-        <a href="https://www.instagram.com/gonza.salda/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
+        <a href="https://gonzalosaldanio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=visualstudiocode" alt="Portfolio" /></a>
+        <a href="https://www.instagram.com/gonza.salda/"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram /></a>
   </div>
 <!--
 **GonzaSalda/GonzaSalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
