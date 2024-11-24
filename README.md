@@ -1,4 +1,4 @@
-## Hi there 👋
+
   <div align=center>
     <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   </div>
@@ -10,23 +10,21 @@
           <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
         </a>
         <a href="https://gonzalosaldanio.netlify.app/">
-          <img src=https://img.shields.io/badge/portfolio-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+          <img src=https://img.shields.io/badge/portfolio-%2300acee.svg?color=4D1C79&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
         </a>
         <a href="https://www.instagram.com/gonza.salda/">
-          <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
   </div>
-<!--
-**GonzaSalda/GonzaSalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋
+👨‍💻 About Me
+💻 I currently work as a Full Stack Developer, focusing on web applications development.
+💡 I enjoy exploring new technologies and developing innovative software solutions, especially in the field of web development and travel apps.
+🎓 I am completing my Associate's Degree in Web Development at UNLaM.
+🌱 I'm currently learning more about Machine Learning, Microservices, and the latest trends in Web3.
+✍️ In my free time, I enjoy logo designing and blog writing, combining my passions for design and technology.
+💬 Feel free to reach out for collaborations, pro bono consulting, or just an interesting tech conversation.
+✉️ You can email me at gonza.salda00@gmail.com. I'll try to respond as soon as I can!
+📄 Please check out my Resume for more details about my experience and skills. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
