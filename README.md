@@ -1,7 +1,15 @@
 ## Hi there 👋
-<div style="display: flex; justify-content: center;">
-  <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</div
+  <div align=center>
+    <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  </div>
+  <div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I%27m+Gonza+%F0%9F%91%8B;Full+Stack+Developer;React+Developer;Node.js;JavaScript;Java+SpringBoot;%26+MySQL;Tech+Lover;Enthusiast;Collaborative+%26+Creative;Open-Source+Advocate" alt="Headline" />
+  </div>
+  <div align=center>
+        <a href="https://www.linkedin.com/in/gonzalo-saldaño/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://gonzalosaldanio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=portfolio" alt="Portfolio" /></a>
+        <a href="https://www.instagram.com/gonza.salda/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
+  </div>
 <!--
 **GonzaSalda/GonzaSalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
