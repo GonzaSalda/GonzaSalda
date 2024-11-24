@@ -19,9 +19,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I currently work as a Full Stack Developer, focusing on web applications development.\
-💡 &nbsp;I enjoy exploring new technologies and developing innovative software solutions, especially in the field of web development and travel apps.\
 🎓 &nbsp;I am completing my Associate's Degree in Web Development at UNLaM.\
+💡 &nbsp;I enjoy exploring new technologies and developing innovative software solutions, especially in the field of web development and travel apps.\
 🌱 &nbsp;I'm currently learning more about Machine Learning, Microservices, and the latest trends in Web3.\
 ✍️ &nbsp;In my free time, I enjoy logo designing and blog writing, combining my passions for design and technology.\
 💬 &nbsp;Feel free to reach out for collaborations, pro bono consulting, or just an interesting tech conversation.\
