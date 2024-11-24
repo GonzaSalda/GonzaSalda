@@ -48,7 +48,7 @@
 
 ### 🗃 &nbsp;Databases
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
