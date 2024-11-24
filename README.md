@@ -37,7 +37,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
@@ -48,7 +48,7 @@
 
 ### 🗃 &nbsp;Databases
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/GonzaSalda">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AGonzaSalda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GonzaSalda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/GonzaSalda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GonzaSalda&layout=compact&langs_count=8&theme=algolia"/>
