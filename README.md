@@ -19,13 +19,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am completing my Associate's Degree in Web Development at UNLaM.\
+🎓 &nbsp; I have completed my Associate's Degree in Web Development at UNLaM in 2024.\
 💡 &nbsp;I enjoy exploring new technologies and developing innovative software solutions, especially in the field of web development and travel apps.\
 🌱 &nbsp;I'm currently learning more about Machine Learning, Microservices, and the latest trends in Web3.\
-✍️ &nbsp;In my free time, I enjoy logo designing and blog writing, combining my passions for design and technology.\
-💬 &nbsp;Feel free to reach out for collaborations, pro bono consulting, or just an interesting tech conversation.\
+✍️ &nbsp;In my free time, I enjoy logo designing.\
 ✉️ &nbsp;You can email me at gonza.salda00@gmail.com. I'll try to respond as soon as I can!\
-📄 &nbsp;Please check out my [CV](https://drive.google.com/file/d/1m9DBpPl1noiiD2KRKeTGfCCZVnmgmv-r/view?usp=drive_link) for more details about my experience and skills. I'm open to feedback and suggestions!
+📄 &nbsp;Please check out my [CV](https://drive.google.com/file/d/1q3CYrSDYlkMBU3VNAD1Sx-iHgLJFUqzk/view?usp=drive_link) for more details about my experience and skills. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
