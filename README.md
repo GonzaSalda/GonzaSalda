@@ -24,7 +24,7 @@
 🌱 &nbsp;I'm currently learning more about Machine Learning, Microservices, and the latest trends in Web3.\
 ✍️ &nbsp;In my free time, I enjoy logo designing.\
 ✉️ &nbsp;You can email me at gonza.salda00@gmail.com. I'll try to respond as soon as I can!\
-📄 &nbsp;Please check out my [CV](https://drive.google.com/file/d/1q3CYrSDYlkMBU3VNAD1Sx-iHgLJFUqzk/view?usp=drive_link) for more details about my experience and skills. I'm open to feedback and suggestions!
+📄 &nbsp;Please check out my [CV](https://drive.google.com/file/d/1klQ-kEDPnoM-SvA9jy7Y9WQtREpp36X6/view?usp=sharing) for more details about my experience and skills. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
